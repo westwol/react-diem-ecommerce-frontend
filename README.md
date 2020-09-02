@@ -3,9 +3,11 @@
 <p align="center">
   <img src="https://i.imgur.com/mHMWIXO.png" width="350" title="hover text">
   
-  Diem ecommerce is a basic functionality of a ecommerce which includes: Auth: Login & Register, Products, Shopping Cart management, Basic new order mechanism.
+  Diem Ecommerce is a basic ecommerce app which includes: Auth: Login & Register, Products, Shopping Cart management, Basic new order mechanism.
   
-  Built using <b>NodeJS</b> using MVC pattern.
+  Built using <b>NodeJS</b> using MVC pattern and <b>ReactJS</b>.
+  
+  Due the naturity of the project, commits are well-welcomed.
  
   <b>Frontend:</b>
   - Components (as reusable as possible)

@@ -1,4 +1,4 @@
-# Diem Ecommerce (Backend)
+# Diem Ecommerce (Frontend)
 
 <p align="center">
   <img src="https://i.imgur.com/mHMWIXO.png" width="350" title="hover text">
@@ -13,11 +13,7 @@
   - Protected routes (avoid unauthentificated users to navigate)
   - API (using axios)
  
-  <b>Backend:</b>
-  - Controllers (handle every logic task including database requests)
-  - Models (database objects)
-  - Routes (api routes)
-  - Helpers (token signature helper)
+  <b>Backend:</b> https://github.com/westwol/react-diem-ecommerce-backend
  
   <b>Screenshots:</b></br>
   Homepage:</br>

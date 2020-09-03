@@ -8,6 +8,8 @@
   Built using <b>NodeJS</b> using MVC pattern and <b>ReactJS</b>.
   
   Due the naturity of the project, commits are well-welcomed.
+  
+  <b>Demo:</b> https://react-diem-ecommerce-frontend.vercel.app
  
   <b>Frontend:</b>
   - Components (as reusable as possible)
